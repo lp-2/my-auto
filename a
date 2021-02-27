@@ -1,0 +1,60 @@
+[33mcommit b027a4e912bb634d1486f8f1777fa2250849164b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Julio Lima <juliow300@gmail.com>
+Date:   Sat Feb 27 11:50:54 2021 -0300
+
+    Alterando projeto para o Eclipse
+
+[33mcommit fb439062f8e74fd1d6a47081c6679cb6bdc9640b[m[33m ([m[1;32mjulio[m[33m)[m
+Author: Wagnr Olimpio da Silva <Wagner.DaSilva@hyland.com>
+Date:   Sat Feb 27 11:30:40 2021 -0300
+
+    Deletando pasta MyAutoTOP
+
+[33mcommit d1f62daacdb1e3af9b36abc2a56e273d254aa434[m
+Merge: 48a3352 ae47c6d
+Author: Wagnr Olimpio da Silva <Wagner.DaSilva@hyland.com>
+Date:   Sat Feb 27 11:29:18 2021 -0300
+
+    Merge branch 'main' of https://github.com/lp-2/my-auto into main
+
+[33mcommit 48a3352ab200630902541b9d2f1a511242149075[m
+Author: Wagnr Olimpio da Silva <Wagner.DaSilva@hyland.com>
+Date:   Sat Feb 27 11:23:36 2021 -0300
+
+    Criado classe Lancamento
+
+[33mcommit f7bb65256e06f79e46dd6d3d436e5c7038359ce0[m
+Author: Julio Lima <juliow300@gmail.com>
+Date:   Sat Feb 27 10:27:53 2021 -0300
+
+    Criando o projeto My Auto Top
+
+[33mcommit ea38a6cacce656fe2e4fa291605ed57e839989e8[m
+Author: Julio Lima <juliow300@gmail.com>
+Date:   Sat Feb 27 10:33:10 2021 -0300
+
+    Criando Projeto My Auto Top
+
+[33mcommit ae47c6db8726a020ae9e6373c2d5e66ba4f95b7c[m
+Author: Julio Lima <juliow300@gmail.com>
+Date:   Sat Feb 27 10:27:53 2021 -0300
+
+    Criando o projeto My Auto Top
+
+[33mcommit 584ac4a266b9cedf3bc9ba40cefa6c39a202b29b[m
+Author: Julio Lima <juliow300@gmail.com>
+Date:   Sat Feb 27 10:33:10 2021 -0300
+
+    Criando Projeto My Auto Top
+
+[33mcommit 77dd4898f8679aa075067d344019b354f8125974[m[33m ([m[1;31morigin/wagner[m[33m)[m
+Author: Wagnr Olimpio da Silva <Wagner.DaSilva@hyland.com>
+Date:   Sat Feb 27 10:10:19 2021 -0300
+
+    Commit para o Branch Wagner
+
+[33mcommit 4cd3207e673b0cba26d8f50026704359929ff245[m[33m ([m[1;31morigin/kathellin[m[33m)[m
+Author: Julio Cesar Rodrigues Lima <45577623+limaJuliao@users.noreply.github.com>
+Date:   Sat Feb 27 09:56:37 2021 -0300
+
+    Initial commit
